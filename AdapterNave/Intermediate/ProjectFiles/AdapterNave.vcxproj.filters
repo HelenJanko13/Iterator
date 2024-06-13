@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AdapterNave.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{1213A94F-8818-425B-86E0-BF2CC2557D3B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AdapterNave.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AdapterNaveEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{2E38578A-16B9-4A86-ABFC-AE9E8B858B64}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\AdapterNave">
+      <UniqueIdentifier>{F236AE4D-2ABA-4B7D-B7BB-66EE3B03DC55}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AdapterNave\AdapterNave.Build.cs">
+      <Filter>Source\AdapterNave</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AdapterNave\AdapterNave.cpp">
+      <Filter>Source\AdapterNave</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AdapterNave\AdapterNave.h">
+      <Filter>Source\AdapterNave</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AdapterNave\AdapterNaveGameMode.cpp">
+      <Filter>Source\AdapterNave</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AdapterNave\AdapterNaveGameMode.h">
+      <Filter>Source\AdapterNave</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AdapterNave\AdapterNavePawn.cpp">
+      <Filter>Source\AdapterNave</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AdapterNave\AdapterNavePawn.h">
+      <Filter>Source\AdapterNave</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AdapterNave\AdapterNaveProjectile.cpp">
+      <Filter>Source\AdapterNave</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AdapterNave\AdapterNaveProjectile.h">
+      <Filter>Source\AdapterNave</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AdapterNave\Ball.cpp">
+      <Filter>Source\AdapterNave</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AdapterNave\Ball.h">
+      <Filter>Source\AdapterNave</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AdapterNave\BallAdapter.cpp">
+      <Filter>Source\AdapterNave</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AdapterNave\BallAdapter.h">
+      <Filter>Source\AdapterNave</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AdapterNave\BounceBallInterface.cpp">
+      <Filter>Source\AdapterNave</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AdapterNave\BounceBallInterface.h">
+      <Filter>Source\AdapterNave</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

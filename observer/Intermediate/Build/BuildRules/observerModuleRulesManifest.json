@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Programacion\\observer\\Source\\observer\\observer.Build.cs",
+		"D:\\Programacion\\observer\\Source\\observer.Target.cs",
+		"D:\\Programacion\\observer\\Source\\observerEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

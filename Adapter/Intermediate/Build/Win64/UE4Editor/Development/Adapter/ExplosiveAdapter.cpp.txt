@@ -1,0 +1,7 @@
+D:\Programacion\Adapter\Intermediate\Build\Win64\UE4Editor\Development\Adapter\Definitions.Adapter.h
+D:\Programacion\Adapter\Source\Adapter\ExplosiveAdapter.h
+D:\Programacion\Adapter\Source\Adapter\InterfaceExplosiveShot.h
+D:\Programacion\Adapter\Intermediate\Build\Win64\UE4Editor\Inc\Adapter\InterfaceExplosiveShot.generated.h
+D:\Programacion\Adapter\Intermediate\Build\Win64\UE4Editor\Inc\Adapter\ExplosiveAdapter.generated.h
+D:\Programacion\Adapter\Source\Adapter\BalaCanion.h
+D:\Programacion\Adapter\Intermediate\Build\Win64\UE4Editor\Inc\Adapter\BalaCanion.generated.h

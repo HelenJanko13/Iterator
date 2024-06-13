@@ -1,0 +1,13 @@
+D:\Programacion\Adapter\Intermediate\Build\Win64\UE4Editor\Development\Adapter\Definitions.Adapter.h
+D:\Programacion\Adapter\Source\Adapter\AdapterGameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Programacion\Adapter\Source\Adapter\Jugador.h
+D:\Programacion\Adapter\Source\Adapter\InterfaceExplosiveShot.h
+D:\Programacion\Adapter\Intermediate\Build\Win64\UE4Editor\Inc\Adapter\InterfaceExplosiveShot.generated.h
+D:\Programacion\Adapter\Intermediate\Build\Win64\UE4Editor\Inc\Adapter\Jugador.generated.h
+D:\Programacion\Adapter\Intermediate\Build\Win64\UE4Editor\Inc\Adapter\AdapterGameModeBase.generated.h
+D:\Programacion\Adapter\Source\Adapter\ExplosiveAdapter.h
+D:\Programacion\Adapter\Intermediate\Build\Win64\UE4Editor\Inc\Adapter\ExplosiveAdapter.generated.h

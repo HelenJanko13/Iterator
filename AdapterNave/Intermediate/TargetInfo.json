@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AdapterNave",
+			"Path": "D:\\Programacion\\AdapterNave\\Source\\AdapterNave.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AdapterNaveEditor",
+			"Path": "D:\\Programacion\\AdapterNave\\Source\\AdapterNaveEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

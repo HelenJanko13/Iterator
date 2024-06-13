@@ -1,0 +1,7 @@
+D:\Programacion\AdapterNave\Intermediate\Build\Win64\UE4Editor\Development\AdapterNave\Definitions.AdapterNave.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Programacion\AdapterNave\Source\AdapterNave/BallAdapter.h
+D:\Programacion\AdapterNave\Source\AdapterNave\BounceBallInterface.h
+D:\Programacion\AdapterNave\Intermediate\Build\Win64\UE4Editor\Inc\AdapterNave\BounceBallInterface.generated.h
+D:\Programacion\AdapterNave\Intermediate\Build\Win64\UE4Editor\Inc\AdapterNave\BallAdapter.generated.h

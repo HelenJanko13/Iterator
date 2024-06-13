@@ -1,0 +1,5 @@
+D:\Programacion\Adapter\Intermediate\Build\Win64\UE4Editor\Development\Adapter\Definitions.Adapter.h
+D:\Programacion\Adapter\Source\Adapter\Jugador.h
+D:\Programacion\Adapter\Source\Adapter\InterfaceExplosiveShot.h
+D:\Programacion\Adapter\Intermediate\Build\Win64\UE4Editor\Inc\Adapter\InterfaceExplosiveShot.generated.h
+D:\Programacion\Adapter\Intermediate\Build\Win64\UE4Editor\Inc\Adapter\Jugador.generated.h

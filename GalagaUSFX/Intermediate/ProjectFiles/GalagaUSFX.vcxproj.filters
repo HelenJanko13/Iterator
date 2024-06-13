@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GalagaUSFX.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{6B9674B0-88CE-4BB4-8414-0943EC4FD477}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GalagaUSFX.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GalagaUSFXEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{894755B0-8B22-43DC-BC11-2886C4CCA942}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GalagaUSFX">
+      <UniqueIdentifier>{D95EC5F8-C5B7-4C47-B07C-4EEACF7C8820}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GalagaUSFX\GalagaUSFX.Build.cs">
+      <Filter>Source\GalagaUSFX</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GalagaUSFX\GalagaUSFX.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\GalagaUSFX.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX\GalagaUSFXGameMode.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\GalagaUSFXGameMode.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX\GalagaUSFXPawn.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\GalagaUSFXPawn.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GalagaUSFX\GalagaUSFXProjectile.cpp">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GalagaUSFX\GalagaUSFXProjectile.h">
+      <Filter>Source\GalagaUSFX</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

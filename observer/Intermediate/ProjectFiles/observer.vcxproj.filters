@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\observer.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{FAD036F0-537B-4905-8D4B-A29BC4507951}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\observer.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\observerEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{43E8D9A4-A898-4025-AE71-8D4625E1204C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\observer">
+      <UniqueIdentifier>{203DEAC8-994E-407F-A8C9-025C4F18C26A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\observer\observer.Build.cs">
+      <Filter>Source\observer</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\observer\observer.cpp">
+      <Filter>Source\observer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\observer\observer.h">
+      <Filter>Source\observer</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\observer\observerGameModeBase.cpp">
+      <Filter>Source\observer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\observer\observerGameModeBase.h">
+      <Filter>Source\observer</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\observer\Publicador_observer.cpp">
+      <Filter>Source\observer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\observer\Publicador_observer.h">
+      <Filter>Source\observer</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\observer\Reloj.cpp">
+      <Filter>Source\observer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\observer\Reloj.h">
+      <Filter>Source\observer</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\observer\Subs_1.cpp">
+      <Filter>Source\observer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\observer\Subs_1.h">
+      <Filter>Source\observer</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\observer\Subs_2.cpp">
+      <Filter>Source\observer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\observer\Subs_2.h">
+      <Filter>Source\observer</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\observer\SuscriptorInterface.cpp">
+      <Filter>Source\observer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\observer\SuscriptorInterface.h">
+      <Filter>Source\observer</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\observer\TransformadorInterface.cpp">
+      <Filter>Source\observer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\observer\TransformadorInterface.h">
+      <Filter>Source\observer</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

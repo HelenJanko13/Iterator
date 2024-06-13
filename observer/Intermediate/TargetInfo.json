@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "observer",
+			"Path": "D:\\Programacion\\observer\\Source\\observer.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "observerEditor",
+			"Path": "D:\\Programacion\\observer\\Source\\observerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

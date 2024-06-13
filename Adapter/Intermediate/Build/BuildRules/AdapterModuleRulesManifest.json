@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Programacion\\Adapter\\Source\\Adapter\\Adapter.Build.cs",
+		"D:\\Programacion\\Adapter\\Source\\Adapter.Target.cs",
+		"D:\\Programacion\\Adapter\\Source\\AdapterEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

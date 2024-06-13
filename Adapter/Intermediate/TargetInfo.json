@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Adapter",
+			"Path": "D:\\Programacion\\Adapter\\Source\\Adapter.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AdapterEditor",
+			"Path": "D:\\Programacion\\Adapter\\Source\\AdapterEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

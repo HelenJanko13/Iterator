@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Programacion\\AdapterNave\\Source\\AdapterNave\\AdapterNave.Build.cs",
+		"D:\\Programacion\\AdapterNave\\Source\\AdapterNave.Target.cs",
+		"D:\\Programacion\\AdapterNave\\Source\\AdapterNaveEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

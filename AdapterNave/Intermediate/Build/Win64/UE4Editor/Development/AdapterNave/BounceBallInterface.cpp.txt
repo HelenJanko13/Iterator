@@ -1,0 +1,3 @@
+D:\Programacion\AdapterNave\Intermediate\Build\Win64\UE4Editor\Development\AdapterNave\Definitions.AdapterNave.h
+D:\Programacion\AdapterNave\Source\AdapterNave\BounceBallInterface.h
+D:\Programacion\AdapterNave\Intermediate\Build\Win64\UE4Editor\Inc\AdapterNave\BounceBallInterface.generated.h
